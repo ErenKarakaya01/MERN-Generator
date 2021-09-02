@@ -1,0 +1,21 @@
+{
+  "name": "realtime-chat-app",
+  "version": "1.0.0",
+  "description": "Chat App",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ErenKarakaya01/MERN-Generator"
+  },
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "author": "Eren",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
